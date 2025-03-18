@@ -54,6 +54,8 @@ if __name__ == "__main__":
     max_id = None
     while True:
         file_data = read_from_file()
+        break
+
         
         
         
